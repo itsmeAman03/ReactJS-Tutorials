@@ -1,0 +1,8 @@
+Styling React Componets 
+
+1. CSS stylesheet
+2. Inline Styling
+3. CSS modules
+4. CSS in JS libraries (Styles components)
+
+to specify multiple classes we uses  template literals.
